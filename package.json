@@ -1,0 +1,23 @@
+{
+    "name": "test",
+    "version": "1.0.0",
+    "description": "Jest Tests",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "jest --verbose"
+    },
+    "keywords": [
+        "js",
+        "javascript",
+        "jest",
+        "tests"
+    ],
+    "author": "Yevhen Dzyuba",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^27.3.1"
+    }
+}
